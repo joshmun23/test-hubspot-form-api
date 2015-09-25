@@ -15,3 +15,11 @@
  *= require foundation_and_overrides
 
  */
+
+.hs-cta-container ul {
+  list-style: none;
+}
+
+.hs-cta-container li {
+  display: inline-block;
+}
